@@ -1,0 +1,34 @@
+{
+    "name": "zh-cn-date",
+    "title": "zh-cn-date.js",
+    "version": "0.0.1",
+    "description": "Date derived js based on date objects",
+    "license": "",
+    "scripts": {
+      "test": "node debug/nodejs/test.js"
+    },
+    "author": {
+      "name": "yjx1998",
+      "email": "1274965551@qq.com",
+      "url": "https://www.npmjs.com/settings/yjx1998/profile"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/313801120/xiyueta.git"
+    },
+    "keywords": [
+      "zh-cn-date",
+      "zh-cn-date.js",
+      "date",
+      "datejs",
+      "html",
+      "js"
+    ],
+    "bugs": {
+      "url": "https://github.com/313801120/xiyueta/issues"
+    },
+    "main": "dist/zh-cn-date.min.js",
+    "dependencies": {
+    }
+  }
+  
